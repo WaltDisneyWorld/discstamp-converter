@@ -1,0 +1,16 @@
+{
+  "name": "discstamp",
+  "version": "1.1.1",
+  "description": "Timestamp to discord timestamp converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "timestamps",
+    "converter"
+  ],
+  "author": "Caleb Smith",
+  "license": "ISC"
+}
